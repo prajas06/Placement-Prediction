@@ -4,15 +4,25 @@ OVERVIEW: This project aims to predict student placement outcomes based on vario
 
 MODELS USED:
 
-Logistic Regression
-Support Vector Machine (SVM)
-Decision Tree
-Random Forest
+a. Logistic Regression
+
+b. Support Vector Machine (SVM)
+
+c. Decision Tree
+
+d. Random Forest
+
 DATA PROCESSING & VISUALISATION:
 
-Python Libraries Used- a. NumPy – Numerical computations 
-                       b. Pandas – Data manipulation and preprocessing 
-                       c. Matplotlib & Seaborn – Data visualization
+Python Libraries Used- 
+a. NumPy – Numerical computations
+
+b. Pandas – Data manipulation and preprocessing 
+                       
+c. Matplotlib & Seaborn – Data visualization
+
 Graphical Representations- 
-                       a. Correlation Matrix – Identifies relationships between features 
-                       b. Pairplot – Visualizes pairwise feature distributions
+                       
+a. Correlation Matrix – Identifies relationships between features 
+                       
+b. Pairplot – Visualizes pairwise feature distributions
